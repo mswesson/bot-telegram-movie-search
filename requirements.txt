@@ -1,0 +1,11 @@
+# Telegram Bot Api
+pyTelegramBotAPI==4.19.2
+
+# Database
+peewee==3.17.5
+
+# Utilities
+python-dotenv==1.0.1
+
+# HTTP
+requests==2.32.3
